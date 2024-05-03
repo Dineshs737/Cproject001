@@ -1,0 +1,9 @@
+./medicine/penadol.txt
+./medicine/menthol.txt
+./medicine/dinesh.txt
+./medicine/pema.txt
+./medicine/panadol.txt
+./medicine/panadol.txt
+./medicine/priton.txt
+./medicine/12.txt
+./medicine/123.txt
